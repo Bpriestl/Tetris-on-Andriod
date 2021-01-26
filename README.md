@@ -43,7 +43,9 @@ Change the titles "Dowloading LICEcap" and "Posting a GIF in readme" needed.
 ![tetris_gameplay](https://cdn.discordapp.com/attachments/361683020152963085/803155243730075698/tetris.gif)
 
 ****RECOMMENDED USAGE ON PIXEL 2 XL API 28 TO FIT TETRIS BOARD****
+
 [//]: # (* [ ] Got any features?)
+
 The following ****additional**** features are implemented:<br/>
 * [x] Tutorial on Game Feautures
 * [x] Game ends when it reaches the top
