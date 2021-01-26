@@ -10,11 +10,11 @@ Team Name:
 
 * ****Buonkuang Priestley****
 
-  - UCInetID: bpriestl
+  - Email: priestleyb17@gmail.com
   
 * ****Johnny Tran****
 
-  - UCInetID: johnnyt5
+  - Email: johnnytranac@gmail.com
 
 
 
