@@ -41,7 +41,7 @@ The following ****required**** functionality is complete:
 Change the titles "Dowloading LICEcap" and "Posting a GIF in readme" needed.
 <br/>)
 ****RECOMMENDED USAGE ON PIXEL 2 XL API 28 TO FIT TETRIS BOARD****
-![tetris_gameplay](https://media.github.uci.edu/user/1396/files/cd341f00-74f7-11e9-9ed1-e63fa17db7a5)
+![tetris_gameplay](https://cdn.discordapp.com/attachments/361683020152963085/803155243730075698/tetris.gif)
 
 [//]: # (* [ ] Got any features?)
 The following ****additional**** features are implemented:<br/>
